@@ -3,13 +3,17 @@ Front-End
 Instruções para execução do projeto:
 
 Após realizar o download do projeto digitando o codigo(git clone https://github.com/RandelFreitas/frontEwally.git) no terminal,
+
 siga as seguintes instruções:
 Utilizando npm:
+
 - cd frontEwally;
 - npm install;
 - mpm run dev;
 - acessar: http://localhost:3000
+
 Utilizando yarn:
+
 - cd frontEwally;
 - yarn
 - yarn dev
