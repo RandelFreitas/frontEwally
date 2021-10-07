@@ -5,6 +5,7 @@ Instruções para execução do projeto:
 Após realizar o download do projeto digitando o codigo(git clone https://github.com/RandelFreitas/frontEwally.git) no terminal,
 
 siga as seguintes instruções:
+
 Utilizando npm:
 
 - cd frontEwally;
